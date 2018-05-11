@@ -1,6 +1,6 @@
 <h2 align="center">Exploring the Solar System with Unity</h2>
 <h2 align="center">CS 4331 - Virtual Reality Project 3</h2>
-<h2 align="center">Video Link: ...</h2>
+<h2 align="center">[Video Link](https://youtu.be/_Hg7o4IVKJw)</h2>
 
 ***
 
@@ -31,7 +31,7 @@
 ### References
   - [Planets Data](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
   - [Asteroid Belt Tutorial](https://www.youtube.com/watch?v=w422-JEQ8Og)
-  - [SpaceScraft](https://assetstore.unity.com/packages/3d/vehicles/space/sci-fi-scout-drone-54334)
+  - [SpaceScraft](https://assetstore.unity.com/packages/3d/vehicles/space/sci-fi-scout-drone-54334)<br>
   ![alt text](https://imgur.com/rmnAA2p.png)
-  - [Asteroids](https://assetstore.unity.com/packages/3d/environments/sci-fi/space-asteroids-96444)
+  - [Asteroids](https://assetstore.unity.com/packages/3d/environments/sci-fi/space-asteroids-96444)<br>
   ![alt text](https://imgur.com/RPrxFjK.png)
