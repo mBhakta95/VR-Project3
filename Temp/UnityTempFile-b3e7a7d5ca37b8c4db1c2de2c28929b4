@@ -4,6 +4,7 @@
 -langversion:4
 -out:Temp/Assembly-CSharp.dll
 -unsafe
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
@@ -52,7 +53,6 @@
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
--r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
@@ -180,10 +180,16 @@
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
 -define:CROSS_PLATFORM_INPUT
-Assets/NewBehaviourScript.cs
+Assets/BeltObject.cs
+Assets/BeltSpawner.cs
+Assets/CameraStatic.cs
+Assets/Fonts/Script/scriptTexttest.cs
+Assets/LoadSceneOnClick.cs
 Assets/PlanePilot.cs
 Assets/Rotation.cs
 Assets/RotationAroundSun.cs
+Assets/SwitchCam.cs
+Assets/WarpSpeed/WarpSpeed.cs
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"

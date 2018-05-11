@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d9bd7b83e1544784286d086acb0390aa
+  - enabled: 1
+    path: Assets/Scenes/SpaceSim.unity
+    guid: 7faf7488f6043174bbd9741e40d7331a
