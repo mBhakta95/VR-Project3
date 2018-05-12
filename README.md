@@ -32,6 +32,8 @@ P.D. If anyone wants to check it out, I made a release in GitHub.
 ### References
   - [Planets Data](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
   - [Asteroid Belt Tutorial](https://www.youtube.com/watch?v=w422-JEQ8Og)
+  - [UI](https://assetstore.unity.com/packages/essentials/unity-samples-ui-25468)
+  - [Font](https://assetstore.unity.com/packages/2d/fonts/bubble-font-free-version-24987)
   - [Music](https://www.dl-sounds.com/royalty-free/category/atmospheric-meditation/space/)
   - [SpaceScraft](https://assetstore.unity.com/packages/3d/vehicles/space/sci-fi-scout-drone-54334)<br>
   ![alt text](https://imgur.com/rmnAA2p.png)
