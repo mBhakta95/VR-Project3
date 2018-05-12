@@ -4,8 +4,7 @@
 
 ***
 
-<h1 align="center">Project Description</h1>
-
+### Project Description
 - For project 3, I decided to create a space simulator in which the user can learn more about the planets in our solar system individually with real data as well as to have to option to explore the space in a spacecraft. If time allows I would to expand this project even more by adding asteroids and galaxies.
 P.D. If anyone wants to check it out, I made a release in GitHub.
 ![alt text](https://imgur.com/W1xjx4I.png)
